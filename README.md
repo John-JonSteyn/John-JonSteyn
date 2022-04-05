@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bearded-Viking&color=5102fc&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/badge/BSc%20Computing-III-5102fc?style=for-the-badge" />
-</p>
-  <h1 align="center">Well, hello there!</h1>
-
 <p align="center"><img src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/cartoonDOS.gif" width="500"/></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BSc%20Computing-III-5102fc?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Bearded-Viking&color=5102fc&style=for-the-badge" alt="Profile Views">
+</p>
 
 <h2>WhoAmI:</h2>
 
@@ -16,38 +15,40 @@
 <h2>My Stack</h2>
 
 Frameworks: &nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/PyQT-299936?logo=qt&style=for-the-badge">&nbsp;
-<img src="https://img.shields.io/badge/QT-299936?logo=qt&style=for-the-badge"> <br>
+<img align="right" width="395" src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/stack.gif">
+
+<img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/PyQT-41CD52?logo=qt&style=for-the-badge&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/QT-41CD52?logo=qt&style=for-the-badge&logoColor=white"> <br>
 
 IDEs: &nbsp;
-<img src="https://img.shields.io/badge/Code%20Blocks-2d9625?logo=windows&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Sublime%20Text-bc7101?logo=sublimetext&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-5C2D91?logo=visualstudiocode&style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/Code%20Blocks-2d9625?logo=windows&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white"> <br>
 
 Markup Languages: &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-9e3417?logo=html5&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&style=for-the-badge&logoColor=white"> <br>
 
 Programming Languages: &nbsp;
-<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Java%20Script-b7a835?logo=cplusplus&style=for-the-badge"> &nbsp; 
-<img src="https://img.shields.io/badge/Python-224968?logo=python&style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Java%20Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white"> &nbsp; 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white"> <br>
 
-OS: &nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-37c1fc?logo=kalilinux&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Linux-000000?logo=linux&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=for-the-badge"> <br>
+OS: &nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=for-the-badge&logoColor=white"> <br>
 
 RDBMS: &nbsp; 
-<img src="https://img.shields.io/badge/MySQL-224968?logo=mysql&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge&logoColor=white"> <br>
 
 Software: &nbsp;
-<img src="https://img.shields.io/badge/Aobe-FF0000?logo=adobe&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Microsoft&20Office-D83B01?logo=microsoftoffice&style=for-the-badge"> &nbsp;
-<img src="https://img.shields.io/badge/Scratch-165aba?logo=scratch&style=for-the-badge"> <br>
+<img src="https://img.shields.io/badge/Aobe-FF0000?logo=adobe&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Microsoft&20Office-D83B01?logo=microsoftoffice&style=for-the-badge&logoColor=white"> &nbsp;
+<img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&style=for-the-badge&logoColor=white"> <br>
 
 <h2>Recent Projects</h2>
 <h3> [ Web-Based Task Manager: ](https://github.com/Bearded-Viking/TaskFlow)</h3>
@@ -65,7 +66,7 @@ Funcion-heavy and simplistic unit converter for distances, masses, temperatures 
 Built with:
 - Python 3.10.4
 
-<h3 align = "center" >Contact Me -&nbsp; <a href="https://t.me/Bearded-Viking"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge"></a></h3>
+<h2 align = "center" >Contact Me -&nbsp; <a href="https://t.me/Bearded-Viking"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge"></a></h3>
 
 <h2 align="center"><u>My Github Stats</u></h2>
 
