@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/cartoonDOS.gif" width="500"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/testGif.gif" width="500"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BSc%20Computing-III-5102fc?style=for-the-badge" />
