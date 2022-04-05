@@ -67,19 +67,16 @@ Built with:
 
 <h3 align = "center" >Contact Me -&nbsp; <a href="https://t.me/Bearded-Viking"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge"></a></h3>
 
-
 <h2 align="center"><u>My Github Stats</u></h2>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+![Bearded-Viking's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bearded-Viking&theme=react-dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Bearded-Viking&theme=algolia&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy&margin)
 <img align="right" src="https://metrics.lecoq.io/Bearded-Viking?template=classic&isocalendar=1&achievements=1&introduction=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Africa%2FJohannesburg">	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bearded-Viking&theme=algolia)
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=Bearded-Viking&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)
 ![Bearded-Viking GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bearded-Viking&theme=algolia)
 ![Bearded-Viking's github stats](https://github-readme-stats.vercel.app/api?username=Bearded-Viking&show_icons=true&theme=algolia)
-![Bearded-Viking's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bearded-Viking&theme=react-dark)
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
