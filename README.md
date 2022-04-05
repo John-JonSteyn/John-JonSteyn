@@ -14,38 +14,39 @@
 
 <h2>My Stack</h2>
 
-Frameworks: &nbsp;
-<img align="right" width="395" src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/stack.gif">
-
+Frameworks: <br><br>
 <img src="https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/PyQT-41CD52?logo=qt&style=for-the-badge&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/QT-41CD52?logo=qt&style=for-the-badge&logoColor=white"> <br>
 
-IDEs: &nbsp;
+IDEs: <br><br>
 <img src="https://img.shields.io/badge/Code%20Blocks-2d9625?logo=windows&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&style=for-the-badge&logoColor=white"> <br>
 
-Markup Languages: &nbsp;
+<img align="right" width="500" src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/stack.gif">
+
+Markup Languages: <br><br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&style=for-the-badge&logoColor=white"> <br>
 
-Programming Languages: &nbsp;
+Programming Languages: <br><br>
 <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Java%20Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white"> &nbsp; 
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white"> <br>
 
-OS: &nbsp; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&style=for-the-badge&logoColor=white"> &nbsp;
+OS: <br><br>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&style=for-the-badge&logoColor=white"> <br>
 
-RDBMS: &nbsp; 
+RDBMS: <br><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&style=for-the-badge&logoColor=white"> <br>
 
-Software: &nbsp;
-<img src="https://img.shields.io/badge/Aobe-FF0000?logo=adobe&style=for-the-badge&logoColor=white"> &nbsp;
+Software: <br><br>
+<img src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Microsoft&20Office-D83B01?logo=microsoftoffice&style=for-the-badge&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&style=for-the-badge&logoColor=white"> <br>
@@ -61,7 +62,7 @@ Built with:
 - HTML
 - CSS
 
-<h3> [ Terminal-based Unit Converter: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)</h3>
+<h3> [ Terminal-based Unit Converter: ](https://github.com/Bearded-Viking/UnitConverter)</h3>
 Funcion-heavy and simplistic unit converter for distances, masses, temperatures and time conversions. Albeit rudamentary and primitave, it demonstrates the practicality of functions, elif and the metric system. <br>
 Built with:
 - Python 3.10.4
