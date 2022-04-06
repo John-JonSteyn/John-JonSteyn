@@ -1,6 +1,6 @@
 <!--- Hero Image --->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/testGif.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/hero.gif" width="500"/>
 </p>
 
 <!--- Headline --->
