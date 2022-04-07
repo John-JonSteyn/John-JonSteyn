@@ -15,6 +15,7 @@
 
 <a href="https://t.me/Bearded_Viking"><img align="right" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
 <a href="https://twitter.com/bearded_vikin"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>
+<a href="https://www.hackerrank.com/bearded_viking"><img align="right" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&style=for-the-badge&logoColor=white"></a>
 
 - 3rd year BSc Computing Student, current Average 70.3%
 - Jack of all trades, mastering all of them
