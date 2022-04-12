@@ -68,6 +68,12 @@ Style Sheet Languages:<br><br>
 <!--- Projects --->
 # Recent Projects
 
+## [ Classic Algorithm Guide: ](https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/)
+
+A program that explains and implements classic alogrithms, including Bubble Sorting, Sieve of Eratosthenes, Fibonacci and Collatz's Conjecture.  <br>
+Built with:
+- C++
+
 ## [ Web-Based Task Manager: ](https://github.com/Bearded-Viking/TaskFlow)
 
 A simplistic, no-nonsense, Work Flow Manager you never knew you needed. Simple, functional and aesthetic. <br>
