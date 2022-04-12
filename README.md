@@ -12,7 +12,8 @@
 <!--- About --->
 
 # WhoAmI:
-
+> "My mind,” he said, “rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my own proper atmosphere." - Sherlock Holmes (Arthur Conan Doyle, The Sign of Four)
+<br>
 <a href="https://t.me/Bearded_Viking"><img align="right" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
 <a href="https://twitter.com/bearded_vikin"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.hackerrank.com/bearded_viking"><img align="right" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&style=for-the-badge&logoColor=white"></a>
@@ -21,6 +22,12 @@
 - Jack of all trades, mastering all of them
 - Software Development Journeyman
 - Digital Artist
+<br>
+
+
+
+
+
 
 <!--- Competence --->
 # My Stack
