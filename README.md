@@ -22,12 +22,8 @@
 - Jack of all trades, mastering all of them
 - Software Development Journeyman
 - Digital Artist
+
 <br>
-
-
-
-
-
 
 <!--- Competence --->
 # My Stack
@@ -74,6 +70,12 @@ Style Sheet Languages:<br><br>
 
 <!--- Projects --->
 # Recent Projects
+
+## [ Terminal-based Tax Calculator: ](https://github.com/Bearded-Viking/taxCalculatorZA)
+
+Based off of an individual's age and income, monthly or annualy, calculates their net income after taxation, monthly and annually, the taxed amount and its percentile with regards to the gross income.  <br>
+Built with:
+- Python 3.10.4
 
 ## [ Classic Algorithm Guide: ](https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/)
 
