@@ -17,8 +17,8 @@
 
 <br>
 
-<a href="https://t.me/Bearded_Viking"><img align="right" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
-<a href="https://twitter.com/bearded_vikin"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>
+<a href="https://t.me/Thorin_theBearded"><img align="right" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
+<a href="https://twitter.com/Thorin_Bearded"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.hackerrank.com/bearded_viking"><img align="right" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.codecademy.com/profiles/Bearded-Viking"><img align="right" src="https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white"></a>
 
