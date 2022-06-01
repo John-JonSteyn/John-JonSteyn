@@ -1,12 +1,12 @@
 <!--- Hero Image --->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/hero.gif"/>
+  <img src="https://raw.githubusercontent.com/Thorin-the-Bearded/Thorin-the-Bearded/main/images/hero.gif"/>
 </p>
 
 <!--- Headline --->
 <p align="center">
   <img src="https://img.shields.io/badge/BSc%20Computing-III-5102fc?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=Bearded-Viking&color=5102fc&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Thorin-the-Bearded&color=5102fc&style=for-the-badge" alt="Profile Views">
 </p>
 
 <!--- About --->
@@ -20,7 +20,7 @@
 <a href="https://t.me/Thorin_theBearded"><img align="right" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
 <a href="https://twitter.com/Thorin_Bearded"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.hackerrank.com/bearded_viking"><img align="right" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&style=for-the-badge&logoColor=white"></a>
-<a href="https://www.codecademy.com/profiles/Bearded-Viking"><img align="right" src="https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white"></a>
+<a href="https://www.codecademy.com/profiles/Thorin-the-Bearded"><img align="right" src="https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white"></a>
 
 <br>
 
@@ -34,7 +34,7 @@
 <!--- Competence --->
 # My Stack
 
-<img align="right" width="450" src="https://raw.githubusercontent.com/Bearded-Viking/Bearded-Viking/main/images/stack.gif">
+<img align="right" width="450" src="https://raw.githubusercontent.com/Thorin-the-Bearded/Thorin-the-Bearded/main/images/stack.gif">
 
 Frameworks:<br><br>
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white) &nbsp;
@@ -77,19 +77,19 @@ Style Sheet Languages:<br><br>
 <!--- Projects --->
 # Recent Projects
 
-## [ Terminal-based Tax Calculator: ](https://github.com/Bearded-Viking/taxCalculatorZA)
+## [ Terminal-based Tax Calculator: ](https://github.com/Thorin-the-Bearded/taxCalculatorZA)
 
 Based off of an individual's age and income, monthly or annualy, calculates their net income after taxation, monthly and annually, the taxed amount and its percentile with regards to the gross income.  <br>
 Built with:
 - Python 3.10.4
 
-## [ Classic Algorithm Guide: ](https://github.com/Bearded-Viking/Izumi_ClassicAlgorithmGuide/)
+## [ Classic Algorithm Guide: ](https://github.com/Thorin-the-Bearded/Izumi_ClassicAlgorithmGuide/)
 
 A program that explains and implements classic alogrithms, including Bubble Sorting, Sieve of Eratosthenes, Fibonacci and Collatz's Conjecture.  <br>
 Built with:
 - C++
 
-## [ Web-Based Task Manager: ](https://github.com/Bearded-Viking/TaskFlow)
+## [ Web-Based Task Manager: ](https://github.com/Thorin-the-Bearded/TaskFlow)
 
 A simplistic, no-nonsense, Work Flow Manager you never knew you needed. Simple, functional and aesthetic. <br>
 Built with:
@@ -99,7 +99,7 @@ Built with:
 - HTML
 - CSS
 
-## [ Terminal-based Unit Converter: ](https://github.com/Bearded-Viking/UnitConverter)
+## [ Terminal-based Unit Converter: ](https://github.com/Thorin-the-Bearded/UnitConverter)
 
 Funcion-heavy and simplistic unit converter for distances, masses, temperatures and time conversions. Albeit rudamentary and primitave, it demonstrates the practicality of functions, elif and the metric system. <br>
 Built with:
@@ -111,12 +111,12 @@ Built with:
 
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bearded-Viking&theme=react-dark)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bearded-Viking&theme=algolia&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy&margin)
-<img align="right" src="https://metrics.lecoq.io/Bearded-Viking?template=classic&isocalendar=1&achievements=1&introduction=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Africa%2FJohannesburg">	
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bearded-Viking&theme=algolia)
-![Stars](https://github-readme-stats.vercel.app/api?username=Bearded-Viking&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bearded-Viking&theme=algolia)
-![Stats](https://github-readme-stats.vercel.app/api?username=Bearded-Viking&show_icons=true&theme=algolia)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Thorin-the-Bearded&theme=react-dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thorin-the-Bearded&theme=algolia&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy&margin)
+<img align="right" src="https://metrics.lecoq.io/Thorin-the-Bearded?template=classic&isocalendar=1&achievements=1&introduction=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&introduction.title=true&config.timezone=Africa%2FJohannesburg">	
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thorin-the-Bearded&theme=algolia)
+![Stars](https://github-readme-stats.vercel.app/api?username=Thorin-the-Bearded&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thorin-the-Bearded&theme=algolia)
+![Stats](https://github-readme-stats.vercel.app/api?username=Thorin-the-Bearded&show_icons=true&theme=algolia)
 
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
