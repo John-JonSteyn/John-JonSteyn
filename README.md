@@ -24,9 +24,9 @@
 
 <br>
 
-- 3rd year BSc Computing Student, current Average 70.3%
+- BSc Computing Student, final year
 - Jack of all trades, mastering all of them
-- Software Development Journeyman
+- C# / Unity Software Engineer
 - Digital Artist
 
 <br>
@@ -40,6 +40,15 @@ Frameworks:<br><br>
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white) &nbsp;
 ![PyQT](https://img.shields.io/badge/PyQT-41CD52?logo=qt&style=for-the-badge&logoColor=white)&nbsp;
 ![QT](https://img.shields.io/badge/QT-41CD52?logo=qt&style=for-the-badge&logoColor=white)<br>
+![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&style=for-the-badge&logoColor=white)<br>
+
+Gaming Engines:<br><br>
+![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&style=for-the-badge&logoColor=white) &nbsp;
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?logo=unrealengine&style=for-the-badge&logoColor=white)<br>
+
+Graphics Software:<br><br>
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&style=for-the-badge&logoColor=white)&nbsp;
+![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&style=for-the-badge&logoColor=white)<br>
 
 Integrated Development Environments:<br><br>
 ![Code Blocks](https://img.shields.io/badge/Code%20Blocks-2d9625?logo=windows&style=for-the-badge&logoColor=white)&nbsp;
@@ -52,6 +61,7 @@ Markup Languages:<br><br>
 
 Programming Languages:<br><br>
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&style=for-the-badge&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge&logoColor=white) &nbsp;
 ![Delphi](https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&style=for-the-badge&logoColor=white)&nbsp;
 ![Java Script](https://img.shields.io/badge/Java%20Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white)&nbsp;
