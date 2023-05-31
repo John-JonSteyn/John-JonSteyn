@@ -5,7 +5,7 @@
 
 <!--- Headline --->
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20Computing-III-5102fc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BSc%20Computing-IV-5102fc?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=Thorin-the-Bearded&color=5102fc&style=for-the-badge" alt="Profile Views">
 </p>
 
