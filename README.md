@@ -19,6 +19,7 @@
 
 <a href="https://t.me/JohnJon_Steyn"><img align="right" src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
 <a href="https://twitter.com/JohnJon_Steyn"><img align="right" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/john-jonsteyn/"><img align="right" src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=codecademy&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.hackerrank.com/JohnJon_Steyn"><img align="right" src="https://img.shields.io/badge/HackerRank-00EA64?logo=hackerrank&style=for-the-badge&logoColor=white"></a>
 <a href="https://www.codecademy.com/profiles/John-Jon_Steyn"><img align="right" src="https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white"></a>
 
