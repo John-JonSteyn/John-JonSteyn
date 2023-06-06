@@ -25,8 +25,8 @@
 <br>
 
 - BSc Computing Student, IV
-- Jack of all trades, mastering all of them
-- C# / Unity Software Engineer
+- Unity / C# Software Engineer
+- Virtual Reality Developer
 - AI Enthusiast
 
 <br>
