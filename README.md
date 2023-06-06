@@ -24,7 +24,7 @@
 
 <br>
 
-- BSc Computing IV
+- BSc Computing, Final Year
 - Unity / C# Software Engineer
 - Virtual Reality Developer
 - AI Enthusiast
