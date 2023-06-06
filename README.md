@@ -24,7 +24,7 @@
 
 <br>
 
-- BSc Computing Student, IV
+- BSc Computing IV
 - Unity / C# Software Engineer
 - Virtual Reality Developer
 - AI Enthusiast
