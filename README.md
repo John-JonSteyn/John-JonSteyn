@@ -87,7 +87,7 @@ Style Sheet Languages:<br><br>
 
 <!--- Stats --->
 
-<h2 align="center"><u>My Github Stats</u></h2>
+# Stats
 
 ![BreakLine Animation](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
