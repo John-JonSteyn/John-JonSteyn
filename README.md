@@ -35,12 +35,10 @@
 <!--- Competence --->
 # My Stack
 
-<img align="right" width="450" src="https://raw.githubusercontent.com/John-JonSteyn/John-JonSteyn/main/images/stack.gif">
-
 Frameworks:<br><br>
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&style=for-the-badge&logoColor=white) &nbsp;
 ![PyQT](https://img.shields.io/badge/PyQT-41CD52?logo=qt&style=for-the-badge&logoColor=white)&nbsp;
-![QT](https://img.shields.io/badge/QT-41CD52?logo=qt&style=for-the-badge&logoColor=white)<br>
+![QT](https://img.shields.io/badge/QT-41CD52?logo=qt&style=for-the-badge&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=three.js&style=for-the-badge&logoColor=white)<br>
 
 Gaming Engines:<br><br>
