@@ -84,35 +84,6 @@ Style Sheet Languages:<br><br>
 ![CSS 3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=white)<br>
 
 <!--- Projects --->
-# Recent Projects
-
-## [ Terminal-based Tax Calculator: ](https://github.com/John-JonSteyn/taxCalculatorZA)
-
-Based off of an individual's age and income, monthly or annualy, calculates their net income after taxation, monthly and annually, the taxed amount and its percentile with regards to the gross income.  <br>
-Built with:
-- Python 3.10.4
-
-## [ Classic Algorithm Guide: ](https://github.com/John-JonSteyn/Izumi_ClassicAlgorithmGuide/)
-
-A program that explains and implements classic alogrithms, including Bubble Sorting, Sieve of Eratosthenes, Fibonacci and Collatz's Conjecture.  <br>
-Built with:
-- C++
-
-## [ Web-Based Task Manager: ](https://github.com/John-JonSteyn/TaskFlow)
-
-A simplistic, no-nonsense, Work Flow Manager you never knew you needed. Simple, functional and aesthetic. <br>
-Built with:
-- Django 4.0.3
-- Python 3.10.4
-- SQL Lite 3
-- HTML
-- CSS
-
-## [ Terminal-based Unit Converter: ](https://github.com/John-JonSteyn/UnitConverter)
-
-Funcion-heavy and simplistic unit converter for distances, masses, temperatures and time conversions. Albeit rudamentary and primitave, it demonstrates the practicality of functions, elif and the metric system. <br>
-Built with:
-- Python 3.10.4
 
 <!--- Stats --->
 
