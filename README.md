@@ -12,6 +12,7 @@
 <!--- Socials --->
 <p align="center">
   <a href="https://www.codecademy.com/profiles/John-Jon_Steyn"><img src="https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.kaggle.com/johnjonsteyn"><img src="https://img.shields.io/badge/Kaggle-37bae8?logo=kaggle&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/john-jonsteyn/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?logo=codecademy&style=for-the-badge&logoColor=white"></a>
   <a href="https://twitter.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=for-the-badge&logoColor=white"></a>  
   <a href="https://t.me/JohnJon_Steyn"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&style=for-the-badge&logoColor=white"></a>
