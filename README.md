@@ -26,10 +26,9 @@
 
 
 
-- BSc Computing, Final Year
+- BSc Computing
 - Unity / C# Software Engineer
-- Virtual Reality Developer
-- AI Enthusiast
+- VR / VR Developer
 
 <br>
 
