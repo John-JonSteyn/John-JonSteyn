@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.instagram.com/mrjohnjonsteyn/"><img src="https://img.shields.io/badge/Instagram-2775cb?logo=Instagram&style=for-the-badge&logoColor=white"></a>
   <a href="https://x.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/.com-2775cb?logo=X&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.youtube.com/@John-JonSteyn"><img src="https://img.shields.io/badge/YouTube-2775cb?logo=YouTube&style=for-the-badge&logoColor=white"></a>
 </p>
