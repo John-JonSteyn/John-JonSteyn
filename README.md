@@ -12,10 +12,12 @@
 
 ## Who Am I
 
-I graduated with a Bachelor of Science degree in Computing and am currently employed as a Software Engineer, specialising in Augmented and Virtual Reality for a company focused on Education Simulations.
+I’m a Software Engineer focused on Augmented and Virtual Reality, with a Bachelor of Science in Computing and a passion for building educational simulations that are immersive, intelligent, and human-centred.
 
-My degree was undertaken remotely, which often meant there was no direct access to lecturers. This made it our responsibility to uncover and understand the material, while also providing the opportunity to teach and support peers. Like many others, I too had to balance my academic pursuits with my professional commitments by the end of my studies. At times profoundly difficult, yet always rewarding.
+My undergraduate degree was completed entirely online, often without direct academic support. That experience—both isolating and deeply formative—taught me to navigate complexity independently, but it also instilled in me a lasting commitment to helping others through their own academic journeys. It’s part of why I mentor interns, run a small study group, and try to share what I learn wherever I can.
 
-I received valuable support and insights that played a key role in helping me obtain my degree. In that vein, I aim to share resources and offer insights, hoping they can make your learning journey just a bit smoother.
+I'm currently pursuing a Master of Science in Artificial Intelligence at the University of Essex. While I’ve not yet chosen a research focus, my core interest lies in Cognitive Computing—particularly in how technology and intelligent systems might enhance the way we think, learn, and grow.
 
-Currently I'm also enrolled for a Masters of Science - once again remotely. Hang around for more repos on Computer Science, Artificial Intelligence and research on how we could improve human learning with technology. Feel free to contribute and to reach out!
+This GitHub isn't always busy, but I tend to be more active on the platforms linked above, where I share thoughts and resources in a more conversational format, when time and clarity permit.
+
+If any part of this resonates, feel free to reach out. I'm always open to meaningful dialogue and collaborative curiosity.
