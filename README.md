@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20Computing-2a82e4?style=for-the-badge" />
+  <a href="https://www.essex.ac.uk/courses/pg00457/1/msc-artificial-intelligence" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MSc-grey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Artificial%20Intelligence-2a82e4?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-in-Computing-(98906-–-COM)" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/BSc-grey?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Computing-2a82e4?style=for-the-badge" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=John-JonSteyn&color=2a82e4&style=for-the-badge" alt="Profile Views">
 </p>
 
@@ -12,12 +21,12 @@
 
 ## Who Am I
 
-I’m a Software Engineer focused on Augmented and Virtual Reality, with a Bachelor of Science in Computing and a passion for building educational simulations that are immersive, intelligent, and human-centred.
+I’m a Software Engineer working in extended reality — the intersection of digital systems and embodied experience. But for me, the goal has never been to build technology for its own sake. What matters is how these tools shape us — how they support human growth, attention, memory, and presence, or in some cases, quietly erode them.
 
-My undergraduate degree was completed entirely online, often without direct academic support. That experience—both isolating and deeply formative—taught me to navigate complexity independently, but it also instilled in me a lasting commitment to helping others through their own academic journeys. It’s part of why I mentor interns, run a small study group, and try to share what I learn wherever I can.
+With a Bachelor of Science in Computing and a Master’s degree in Artificial Intelligence currently underway, I’m committed to understanding not just how intelligent systems function, but how they interact with the human mind — and how they might meaningfully complement it.
 
-I'm currently pursuing a Master of Science in Artificial Intelligence at the University of Essex. While I’ve not yet chosen a research focus, my core interest lies in Cognitive Computing—particularly in how technology and intelligent systems might enhance the way we think, learn, and grow.
+My own academic path began online, often without direct guidance or structure. That experience formed in me both resilience and a quiet conviction: people thrive not in isolation, but in relationship and shared curiosity. It’s why I mentor interns, host a study group, and share insights when I can — not because I have all the answers, but because I believe learning should be collaborative, transparent, and human.
 
-This GitHub isn't always busy, but I tend to be more active on the platforms linked above, where I share thoughts and resources in a more conversational format, when time and clarity permit.
+This GitHub is a small part of that journey. I’m more active on the platforms above, where I post reflections and resources when time and clarity allow.
 
-If any part of this resonates, feel free to reach out. I'm always open to meaningful dialogue and collaborative curiosity.
+If any of this resonates, feel free to reach out. I'm always open to meaningful dialogue and collaborative curiosity.
