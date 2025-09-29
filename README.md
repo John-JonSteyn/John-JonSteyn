@@ -21,12 +21,17 @@
 
 ## Who Am I
 
-I’m a Software Engineer working in extended reality — the intersection of digital systems and embodied experience. But for me, the goal has never been to build technology for its own sake. What matters is how these tools shape us — how they support human growth, attention, memory, and presence, or in some cases, quietly erode them.
+I’m a Software Engineer working in extended reality and artificial intelligence. My projects range from intelligent agents, computer vision systems, and data-driven applications to research in search algorithms, rule-based chatbots, and machine learning on datasets such as medical imaging and sleep patterns.
 
-With a Bachelor of Science in Computing and a Master’s degree in Artificial Intelligence currently underway, I’m committed to understanding not just how intelligent systems function, but how they interact with the human mind — and how they might meaningfully complement it.
+With a BSc in Computing and an MSc in Artificial Intelligence underway, my work is less about building systems for their own sake and more about how they can serve human attention, memory, and presence. The focus is on refining technology to meet practical needs while considering its wider ethical and social implications.
 
-My own academic path began online, often without direct guidance or structure. That experience formed in me both resilience and a quiet conviction: people thrive not in isolation, but in relationship and shared curiosity. It’s why I mentor interns, host a study group, and share insights when I can — not because I have all the answers, but because I believe learning should be collaborative, transparent, and human.
+Alongside engineering and research, I mentor interns on independent projects and lead a study group of more than 70 peers, creating spaces for shared learning and collaborative growth.
 
-This GitHub is a small part of that journey. I’m more active on the platforms above, where I post reflections and resources when time and clarity allow.
+This GitHub is one part of that process. I’m also active on the platforms above, where I share reflections and resources when time allows. If any of this connects with your work or interests, feel free to reach out — I’m always open to meaningful dialogue and collaborative curiosity.
 
-If any of this resonates, feel free to reach out. I'm always open to meaningful dialogue and collaborative curiosity.
+## Selected Projects
+
+- [Search Algorithm Comparison](https://github.com/John-JonSteyn/SearchAlgorithmComparisson) – implementation and analysis of different search algorithms, with a focus on efficiency and scalability.  
+- [Brain Tumor MRI Classification](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification) – applying machine learning with scikit-learn to classify medical imaging datasets.  
+- [Lifestyle and Sleep Pattern Analysis](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis) – data analysis using pandas to study correlations between lifestyle factors and sleep patterns.  
+- [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison) – comparative study of programming languages through the development of rule-based chatbots, evaluating syntax, performance, scalability, and maintainability.  
