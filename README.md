@@ -13,7 +13,6 @@
 </p>
 
 <p align="center">
-  <a href="https://bsky.app/profile/john-jonsteyn.bsky.social"><img src="https://img.shields.io/badge/Bluesky-2775cb?logo=Bluesky&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.instagram.com/mrjohnjonsteyn/"><img src="https://img.shields.io/badge/Instagram-2775cb?logo=Instagram&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/john-jonsteyn/"><img src="https://img.shields.io/badge/LinkedIn-2775cb?logo=LinkedIn&style=for-the-badge&logoColor=white"></a>
   <a href="https://x.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/X-2775cb?logo=X&style=for-the-badge&logoColor=white"></a>
