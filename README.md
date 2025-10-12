@@ -15,7 +15,8 @@
 <p align="center">
   <a href="https://www.instagram.com/mrjohnjonsteyn/"><img src="https://img.shields.io/badge/Instagram-2775cb?logo=Instagram&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/john-jonsteyn/"><img src="https://img.shields.io/badge/LinkedIn-2775cb?logo=LinkedIn&style=for-the-badge&logoColor=white"></a>
-  <a href="https://x.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/X-2775cb?logo=X&style=for-the-badge&logoColor=white"></a>
+  <a href="https://x.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/X.com-2775cb?logo=X&style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.youtube.com/@John-JonSteyn"><img src="https://img.shields.io/badge/YouTube-2775cb?logo=YouTube&style=for-the-badge&logoColor=white"></a>
 </p>
 
 ## Who Am I
@@ -30,7 +31,7 @@ This GitHub is one part of that process. I’m also active on the platforms abov
 
 ## Selected Projects
 
-- [Search Algorithm Comparison](https://github.com/John-JonSteyn/SearchAlgorithmComparisson) – implementation and analysis of different search algorithms, with a focus on efficiency and scalability.  
+- [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison) – comparative study of programming languages through the development of rule-based chatbots, evaluating syntax, performance, scalability, and maintainability.  
 - [Brain Tumor MRI Classification](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification) – applying machine learning with scikit-learn to classify medical imaging datasets.  
 - [Lifestyle and Sleep Pattern Analysis](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis) – data analysis using pandas to study correlations between lifestyle factors and sleep patterns.  
-- [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison) – comparative study of programming languages through the development of rule-based chatbots, evaluating syntax, performance, scalability, and maintainability.  
+- [Search Algorithm Comparison](https://github.com/John-JonSteyn/SearchAlgorithmComparisson) – implementation and analysis of different search algorithms, with a focus on efficiency and scalability.  
