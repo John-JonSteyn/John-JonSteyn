@@ -25,7 +25,6 @@ My projects explore how systems learn, perceive, and adapt — from computer vis
 
 ## Projects
 
-- [Cognitive Computation](https://github.com/John-JonSteyn/CognitiveComputation) – a computational investigation into cognitive intelligence, exploring learning, memory, attention, and control through interpretable, theory-driven models grounded in first principles.
 - [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison) – comparative study of programming languages through the development of rule-based chatbots, evaluating syntax, performance, scalability, and maintainability.  
 - [Brain Tumor MRI Classification](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification) – applying machine learning with scikit-learn to classify medical imaging datasets.  
 - [Lifestyle and Sleep Pattern Analysis](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis) – data analysis using pandas to study correlations between lifestyle factors and sleep patterns.  
