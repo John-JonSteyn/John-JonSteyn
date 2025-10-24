@@ -23,7 +23,7 @@
 
 ### Profile
 
-John-Jon Steyn is an XR / AI Engineer, software developer, and researcher with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
+John-Jon Steyn is an XR / AI Engineer with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
 
 His academic focus lies in the convergence of artificial intelligence, psychology, and neuroscience, exploring how computational systems can model the mechanisms of learning, perception, and cognition.
 
