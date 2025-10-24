@@ -13,19 +13,35 @@
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/mrjohnjonsteyn/"><img src="https://img.shields.io/badge/Instagram-2775cb?logo=Instagram&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/john-jonsteyn/"><img src="https://img.shields.io/badge/LinkedIn-2775cb?logo=LinkedIn&style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.instagram.com/mrjohnjonsteyn/"><img src="https://img.shields.io/badge/Instagram-2775cb?logo=Instagram&style=for-the-badge&logoColor=white"></a>
   <a href="https://x.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/X.com-2775cb?logo=X&style=for-the-badge&logoColor=white"></a>
   <a href="https://www.youtube.com/@John-JonSteyn"><img src="https://img.shields.io/badge/YouTube-2775cb?logo=YouTube&style=for-the-badge&logoColor=white"></a>
 </p>
 
-I’m a software engineer working in extended reality and artificial intelligence, with a BSc in Computing and an MSc in Artificial Intelligence underway.
+---
 
-My projects explore how systems learn, perceive, and adapt — from computer vision and intelligent agents to applied machine learning in medical imaging, lifestyle analysis, and the computational study of intelligence.
+### Profile
 
-## Projects
+John-Jon Steyn is an XR / AI Engineer, software developer, and researcher with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
 
-- [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison) – comparative study of programming languages through the development of rule-based chatbots, evaluating syntax, performance, scalability, and maintainability.  
-- [Brain Tumor MRI Classification](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification) – applying machine learning with scikit-learn to classify medical imaging datasets.  
-- [Lifestyle and Sleep Pattern Analysis](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis) – data analysis using pandas to study correlations between lifestyle factors and sleep patterns.  
-- [Search Algorithm Comparison](https://github.com/John-JonSteyn/SearchAlgorithmComparisson) – implementation and analysis of different search algorithms, with a focus on efficiency and scalability.  
+His academic focus lies in the convergence of artificial intelligence, psychology, and neuroscience, exploring how computational systems can model the mechanisms of learning, perception, and cognition.
+
+---
+
+### Selected Projects
+
+- [**Cognitive Computation**](https://github.com/John-JonSteyn/CognitiveComputation)
+  An open-science project exploring cognition from first principles. It implements foundational neural and cognitive mechanisms-such as signal integration.
+
+- [**Rule-Based Chatbot Comparison**](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
+  A comparative study of programming language design and implementation through the construction of rule-based conversational agents, focusing on syntax, performance, and maintainability.
+
+- [**Brain Tumour MRI Classification**](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification)
+  Application of classical machine learning techniques using scikit-learn for medical image classification, highlighting dataset preparation, model evaluation, and interpretability.
+
+- [**Lifestyle and Sleep Pattern Analysis**](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis)
+  Statistical and exploratory data analysis of behavioural datasets to examine correlations between lifestyle variables and sleep quality using Python and pandas.
+
+- [**Search Algorithm Comparison**](https://github.com/John-JonSteyn/SearchAlgorithmComparisson)  
+  Implementation and comparative evaluation of core search algorithms to illustrate the computational principles underlying optimisation and pathfinding.
