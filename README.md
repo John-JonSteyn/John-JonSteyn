@@ -25,14 +25,11 @@
 
 John-Jon Steyn is an XR / AI Engineer with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
 
-His academic focus lies in the convergence of artificial intelligence, psychology, and neuroscience, exploring how computational systems can model the mechanisms of learning, perception, and cognition.
+His work explores how concepts from science, mathematics, and engineering can be applied to real-world AI systems. He is particularly interested in how foundational principles - from physical and biological processes to computational and data-driven models - can inform the development of practical, reliable, and interdisciplinary applications of artificial intelligence across fields such as biomedical engineering, robotics, and modelling.
 
 ---
 
 ### Selected Projects
-
-- [**Cognitive Computation**](https://github.com/John-JonSteyn/CognitiveComputation)
-  An open-science project exploring cognition from first principles. It implements foundational neural and cognitive mechanisms-such as signal integration.
 
 - [**Rule-Based Chatbot Comparison**](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
   A comparative study of programming language design and implementation through the construction of rule-based conversational agents, focusing on syntax, performance, and maintainability.
