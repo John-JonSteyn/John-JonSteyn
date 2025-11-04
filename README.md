@@ -25,7 +25,7 @@
 
 John-Jon Steyn is an XR / AI Engineer with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
 
-His work explores how concepts from science, mathematics, and engineering can be applied to real-world AI systems. He is particularly interested in how foundational principles - from physical and biological processes to computational and data-driven models - can inform the development of practical, reliable, and interdisciplinary applications of artificial intelligence across fields such as biomedical engineering, robotics, and modelling.
+His interests lie in exploring how concepts from science, mathematics, and engineering can be integrated to advance real-world artificial intelligence. He is particularly drawn to how foundational principles - spanning physical, biological, and computational processes - can inform the development of practical, reliable, and interdisciplinary AI applications across areas such as biomedical engineering, neuroimaging, robotics, and computational modelling.
 
 ---
 
