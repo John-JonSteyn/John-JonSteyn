@@ -23,22 +23,19 @@
 
 ### Profile
 
-John-Jon Steyn is an XR / AI Engineer with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
+I’m an AI and XR Engineer with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
 
-His interests lie in exploring how concepts from science, mathematics, and engineering can be integrated to advance real-world artificial intelligence. He is particularly drawn to how foundational principles - spanning physical, biological, and computational processes - can inform the development of practical, reliable, and interdisciplinary AI applications across areas such as biomedical engineering, neuroimaging, robotics, and computational modelling.
+My work focuses on understanding how intelligent systems function and interact, and on building simulations that represent and explain their underlying computational principles and behaviours.
 
 ---
 
 ### Selected Projects
 
+- [**Intelligent Systems Simulations**](https://github.com/John-JonSteyn/IntelligentSystemsSimulations)
+  Development of interactive simulations to demonstrate the structure and behaviour of intelligent systems, illustrating the computational principles that govern artificial intelligence.
+
 - [**Rule-Based Chatbot Comparison**](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
   A comparative study of programming language design and implementation through the construction of rule-based conversational agents, focusing on syntax, performance, and maintainability.
-
-- [**Brain Tumour MRI Classification**](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification)
-  Application of classical machine learning techniques using scikit-learn for medical image classification, highlighting dataset preparation, model evaluation, and interpretability.
-
-- [**Lifestyle and Sleep Pattern Analysis**](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis)
-  Statistical and exploratory data analysis of behavioural datasets to examine correlations between lifestyle variables and sleep quality using Python and pandas.
 
 - [**Search Algorithm Comparison**](https://github.com/John-JonSteyn/SearchAlgorithmComparisson)  
   Implementation and comparative evaluation of core search algorithms to illustrate the computational principles underlying optimisation and pathfinding.
