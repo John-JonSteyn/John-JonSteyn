@@ -34,6 +34,9 @@ My work focuses on understanding how intelligent systems function and interact, 
 - [**Intelligent Systems Simulations**](https://github.com/John-JonSteyn/IntelligentSystemsSimulations)
   Development of interactive simulations to demonstrate the structure and behaviour of intelligent systems, illustrating the computational principles that govern artificial intelligence.
 
+- [**Financial Distress Trend Modelling**](https://github.com/John-JonSteyn/FinancialDistressTrendModelling)
+  Development of a longitudinal machine-learning pipeline over SEC filings to model how financial distress emerges over time, producing both temporal risk trajectories and per-company explanations of which financial indicators are driving that risk.
+
 - [**Rule-Based Chatbot Comparison**](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
   A comparative study of programming language design and implementation through the construction of rule-based conversational agents, focusing on syntax, performance, and maintainability.
 
