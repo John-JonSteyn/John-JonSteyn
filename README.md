@@ -38,6 +38,14 @@ A classical machine-learning baseline for classifying brain MRI images into tumo
   <img src="https://raw.githubusercontent.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification/main/reports/figures/misclassified_grid.png" width="520" alt="Misclassified brain MRI examples">
 </p>
 
+### [Diabetes Risk Factor Analysis](https://github.com/John-JonSteyn/DiabetesRiskFactorAnalysis)
+
+A reproducible R-based analysis of a diabetes dataset, examining how glucose, BMI, age, pregnancies, and hereditary factors relate to diabetes outcome. The repository covers data auditing, cleaning, descriptive analysis, hypothesis testing, regression modelling, and automated generation of statistical outputs and figures.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/DiabetesRiskFactorAnalysis/main/plots/correlation_matrix_heatmap.png" width="420" alt="Diabetes correlation matrix heatmap">
+</p>
+
 ### [Lifestyle & Sleep Pattern Analysis](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis)
 
 An exploratory analysis of sleep, stress, physiology, and lifestyle variables as an interacting system. The notebook focuses on baselines, correlations, anchored visualisations, and hypothesis generation, with an emphasis on reproducible analysis and cautious interpretation.
