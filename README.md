@@ -1,44 +1,71 @@
 <p align="center">
   <a href="https://www.essex.ac.uk/courses/pg00457/1/msc-artificial-intelligence" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/MSc-grey?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Artificial%20Intelligence-2a82e4?style=for-the-badge" />
-  </a>
-  &nbsp;
+    <img src="https://img.shields.io/badge/MSc-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/Artificial%20Intelligence-2a82e4?style=for-the-badge" /></a>
   <a href="https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-in-Computing-(98906-–-COM)" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/BSc-grey?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Computing-2a82e4?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=John-JonSteyn&color=2a82e4&style=for-the-badge" alt="Profile Views">
+    <img src="https://img.shields.io/badge/BSc-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/Computing-2a82e4?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/john-jonsteyn/"><img src="https://img.shields.io/badge/LinkedIn-2775cb?logo=LinkedIn&style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.instagram.com/mrjohnjonsteyn/"><img src="https://img.shields.io/badge/Instagram-2775cb?logo=Instagram&style=for-the-badge&logoColor=white"></a>
-  <a href="https://x.com/JohnJon_Steyn"><img src="https://img.shields.io/badge/X.com-2775cb?logo=X&style=for-the-badge&logoColor=white"></a>
-  <a href="https://www.youtube.com/@John-JonSteyn"><img src="https://img.shields.io/badge/YouTube-2775cb?logo=YouTube&style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.instagram.com/mrjohnjonsteyn/">
+    <img src="https://img.shields.io/badge/-grey?logo=instagram&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Instagram-2a82e4?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/john-jonsteyn/">
+   <img src="https://img.shields.io/badge/in-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/LinkedIn-2a82e4?style=for-the-badge" /></a>
+  <a href="https://www.threads.com/@mrjohnjonsteyn">
+    <img src="https://img.shields.io/badge/%20-grey?logo=threads&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Threads-2a82e4?style=for-the-badge" /></a>
+  <a href="https://x.com/JohnJon_Steyn">
+    <img src="https://img.shields.io/badge/-grey?logo=x&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/X.com-2a82e4?style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/@John-JonSteyn">
+    <img src="https://img.shields.io/badge/-grey?logo=youtube&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/YouTube-2a82e4?style=for-the-badge" /></a>
 </p>
 
 ---
 
-### Profile
+## Profile
 
-I’m an AI and XR Engineer with a Bachelor of Science in Computing and a Master of Science in Artificial Intelligence in progress at the University of Essex.
+I’m a software engineer with a Bachelor of Science in Computing and currently pursuing a Master of Science in Artificial Intelligence.
 
-My work focuses on understanding how intelligent systems function and interact, and on building simulations that represent and explain their underlying computational principles and behaviours.
+I’m interested in how computation can be used to better understand the brain, cognition, and behaviour, and in how these concepts can be applied in practical clinical settings through modelling, AI, and data-driven approaches.
 
 ---
 
-### Selected Projects
+## Selected Projects
 
-- [**Intelligent Systems Simulations**](https://github.com/John-JonSteyn/IntelligentSystemsSimulations)
-  Development of interactive simulations to demonstrate the structure and behaviour of intelligent systems, illustrating the computational principles that govern artificial intelligence.
+### [Brain Tumour MRI Classification](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification)
 
-- [**Financial Distress Trend Modelling**](https://github.com/John-JonSteyn/FinancialDistressTrendModelling)
-  Development of a longitudinal machine-learning pipeline over SEC filings to model how financial distress emerges over time, producing both temporal risk trajectories and per-company explanations of which financial indicators are driving that risk.
+A classical machine-learning baseline for classifying brain MRI images into tumour categories using HOG features and SVMs. Includes preprocessing, training, evaluation, error analysis, and ethical discussion, with a focus on reproducible modelling in a clinically relevant imaging setting.
 
-- [**Rule-Based Chatbot Comparison**](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
-  A comparative study of programming language design and implementation through the construction of rule-based conversational agents, focusing on syntax, performance, and maintainability.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification/main/reports/figures/misclassified_grid.png" width="520" alt="Misclassified brain MRI examples">
+</p>
 
-- [**Search Algorithm Comparison**](https://github.com/John-JonSteyn/SearchAlgorithmComparisson)  
-  Implementation and comparative evaluation of core search algorithms to illustrate the computational principles underlying optimisation and pathfinding.
+### [Lifestyle & Sleep Pattern Analysis](https://github.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis)
+
+An exploratory analysis of sleep, stress, physiology, and lifestyle variables as an interacting system. The notebook focuses on baselines, correlations, anchored visualisations, and hypothesis generation, with an emphasis on reproducible analysis and cautious interpretation.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis/main/outputs/plots/pearson_correlation_matrix.png" width="420" alt="Lifestyle and sleep correlation matrix">
+</p>
+
+### [Financial Distress Trend Modelling](https://github.com/John-JonSteyn/FinancialDistressTrendModelling)
+
+A longitudinal machine-learning pipeline over SEC filings designed to model how financial distress emerges over time, producing temporal risk trajectories and company-level explanatory signals for early warning and monitoring.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/FinancialDistressTrendModelling/main/docs/examples/company_report_elevated_risk.png" width="420" alt="Financial distress report example">
+</p>
+
+### [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
+
+A comparative study of Python and Rust implementations of a retrieval-based chatbot, focused on performance, maintainability, and implementation trade-offs under matched conditions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/RuleBasedChatbotComparison/main/Results/Bench/Plots/scalability_wall_vs_decksize_topic.png" width="420" alt="Chatbot scalability plot">
+</p>
+
+### [Search Algorithm Comparison](https://github.com/John-JonSteyn/SearchAlgorithmComparisson)
+
+Implementation and comparative evaluation of classic search algorithms on grid-based mazes, with a focus on efficiency, path quality, and the practical trade-offs between uninformed and informed search.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/SearchAlgorithmComparisson/main/results/plots/astar-dfs__n600__20250923-095237UTC/path_efficiency_by_size--astar-dfs__n600__20250923-095237UTC.png" width="420" alt="Search algorithm path efficiency comparison">
+</p>
