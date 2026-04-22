@@ -5,19 +5,6 @@
     <img src="https://img.shields.io/badge/BSc-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/Computing-2a82e4?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <a href="https://www.instagram.com/mrjohnjonsteyn/">
-    <img src="https://img.shields.io/badge/-grey?logo=instagram&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Instagram-2a82e4?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/john-jonsteyn/">
-   <img src="https://img.shields.io/badge/in-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/LinkedIn-2a82e4?style=for-the-badge" /></a>
-  <a href="https://www.threads.com/@mrjohnjonsteyn">
-    <img src="https://img.shields.io/badge/%20-grey?logo=threads&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/Threads-2a82e4?style=for-the-badge" /></a>
-  <a href="https://x.com/JohnJon_Steyn">
-    <img src="https://img.shields.io/badge/-grey?logo=x&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/X.com-2a82e4?style=for-the-badge" /></a>
-  <a href="https://www.youtube.com/@John-JonSteyn">
-    <img src="https://img.shields.io/badge/-grey?logo=youtube&style=for-the-badge&logoColor=white" /><img src="https://img.shields.io/badge/YouTube-2a82e4?style=for-the-badge" /></a>
-</p>
-
 ---
 
 ## Profile
