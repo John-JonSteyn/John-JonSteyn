@@ -41,6 +41,14 @@ An exploratory analysis of sleep, stress, physiology, and lifestyle variables as
   <img src="https://raw.githubusercontent.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis/main/outputs/plots/pearson_correlation_matrix.png" width="420" alt="Lifestyle and sleep correlation matrix">
 </p>
 
+### [Academic Literature Planning Agent](https://github.com/John-JonSteyn/AcademicLiteraturePlanningAgent)
+
+A Python planning-agent system for auditable academic literature discovery, evidence organisation, and research synthesis. The system receives a research goal, creates a traceable plan, retrieves scholarly metadata, scores credibility, extracts claims and evidence links, detects contradictions and subtopics, and exports Markdown, JSON, SQLite, and execution-log evidence through a supervisor-led blackboard architecture.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/AcademicLiteraturePlanningAgent/main/Output/ReadmeFigures/BlackboardComposition.svg" width="520" alt="Academic literature planning agent blackboard composition">
+</p>
+
 ### [Financial Distress Trend Modelling](https://github.com/John-JonSteyn/FinancialDistressTrendModelling)
 
 A longitudinal machine-learning pipeline over SEC filings designed to model how financial distress emerges over time, producing temporal risk trajectories and company-level explanatory signals for early warning and monitoring.
