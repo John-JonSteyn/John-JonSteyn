@@ -15,6 +15,48 @@ I’m interested in how computation can be used to better understand the brain, 
 
 ---
 
+## Featured Research
+
+### [Alzheimer's Brain-Age Representation Analysis](https://github.com/John-JonSteyn/AlzheimersBrainAgeRepresentationAnalysis)
+
+A reproducible structural MRI study examining how brain-age representation shapes Alzheimer’s diagnostic and cognitive utility. The analysis compares scalar whole-brain gaps, anatomically resolved regional gaps, and raw FastSurfer morphometry within a CN-trained, subject-level out-of-fold framework, supported by demographic and structural baselines and sensitivity analyses for age-bias correction and reconstruction quality. The findings show that preserving regional structure recovers diagnostic and cognitive information lost through scalar compression.
+
+<p align="center">
+  <a href="https://github.com/John-JonSteyn/AlzheimersBrainAgeRepresentationAnalysis">
+    <img
+      src="https://raw.githubusercontent.com/John-JonSteyn/AlzheimersBrainAgeRepresentationAnalysis/main/Outputs/Figures/BrainAge/figure3_calibration_curves.png"
+      width="520"
+      alt="Calibration curves comparing scalar, regional, and raw brain-age representations"
+    />
+  </a>
+</p>
+
+### [Academic Literature Planning Agent](https://github.com/John-JonSteyn/AcademicLiteraturePlanningAgent)
+
+A Python planning-agent system for auditable academic literature discovery, evidence organisation, and research synthesis. The system receives a research goal, creates a traceable plan, retrieves scholarly metadata, scores credibility, extracts claims and evidence links, detects contradictions and subtopics, and exports Markdown, JSON, SQLite, and execution-log evidence through a supervisor-led blackboard architecture.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/AcademicLiteraturePlanningAgent/main/Output/ReadmeFigures/BlackboardComposition.svg" width="520" alt="Academic literature planning agent blackboard composition">
+</p>
+
+### [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
+
+A comparative study of Python and Rust implementations of a retrieval-based chatbot, focused on performance, maintainability, and implementation trade-offs under matched conditions.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/RuleBasedChatbotComparison/main/Results/Bench/Plots/scalability_wall_vs_decksize_topic.png" width="420" alt="Chatbot scalability plot">
+</p>
+
+### [Financial Distress Trend Modelling](https://github.com/John-JonSteyn/FinancialDistressTrendModelling)
+
+A longitudinal machine-learning pipeline over SEC filings designed to model how financial distress emerges over time, producing temporal risk trajectories and company-level explanatory signals for early warning and monitoring.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/John-JonSteyn/FinancialDistressTrendModelling/main/docs/examples/company_report_elevated_risk.png" width="420" alt="Financial distress report example">
+</p>
+
+---
+
 ## Selected Projects
 
 ### [Brain Tumour MRI Classification](https://github.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification)
@@ -39,36 +81,4 @@ An exploratory analysis of sleep, stress, physiology, and lifestyle variables as
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/John-JonSteyn/LifestyleAndSleepPatternAnalysis/main/outputs/plots/pearson_correlation_matrix.png" width="420" alt="Lifestyle and sleep correlation matrix">
-</p>
-
-### [Academic Literature Planning Agent](https://github.com/John-JonSteyn/AcademicLiteraturePlanningAgent)
-
-A Python planning-agent system for auditable academic literature discovery, evidence organisation, and research synthesis. The system receives a research goal, creates a traceable plan, retrieves scholarly metadata, scores credibility, extracts claims and evidence links, detects contradictions and subtopics, and exports Markdown, JSON, SQLite, and execution-log evidence through a supervisor-led blackboard architecture.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/John-JonSteyn/AcademicLiteraturePlanningAgent/main/Output/ReadmeFigures/BlackboardComposition.svg" width="520" alt="Academic literature planning agent blackboard composition">
-</p>
-
-### [Financial Distress Trend Modelling](https://github.com/John-JonSteyn/FinancialDistressTrendModelling)
-
-A longitudinal machine-learning pipeline over SEC filings designed to model how financial distress emerges over time, producing temporal risk trajectories and company-level explanatory signals for early warning and monitoring.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/John-JonSteyn/FinancialDistressTrendModelling/main/docs/examples/company_report_elevated_risk.png" width="420" alt="Financial distress report example">
-</p>
-
-### [Rule-Based Chatbot Comparison](https://github.com/John-JonSteyn/RuleBasedChatbotComparison)
-
-A comparative study of Python and Rust implementations of a retrieval-based chatbot, focused on performance, maintainability, and implementation trade-offs under matched conditions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/John-JonSteyn/RuleBasedChatbotComparison/main/Results/Bench/Plots/scalability_wall_vs_decksize_topic.png" width="420" alt="Chatbot scalability plot">
-</p>
-
-### [Search Algorithm Comparison](https://github.com/John-JonSteyn/SearchAlgorithmComparisson)
-
-Implementation and comparative evaluation of classic search algorithms on grid-based mazes, with a focus on efficiency, path quality, and the practical trade-offs between uninformed and informed search.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/John-JonSteyn/SearchAlgorithmComparisson/main/results/plots/astar-dfs__n600__20250923-095237UTC/path_efficiency_by_size--astar-dfs__n600__20250923-095237UTC.png" width="420" alt="Search algorithm path efficiency comparison">
 </p>
