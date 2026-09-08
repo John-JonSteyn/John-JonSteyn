@@ -67,6 +67,20 @@ A classical machine-learning baseline for classifying brain MRI images into tumo
   <img src="https://raw.githubusercontent.com/John-JonSteyn/BrainTumorMRIScikitLearnClassification/main/reports/figures/misclassified_grid.png" width="520" alt="Misclassified brain MRI examples">
 </p>
 
+### [Airbnb Spatial Price Modelling](https://github.com/John-JonSteyn/AirBNBSpatialPriceModelling)
+
+A collaborative analysis of New York City Airbnb asking prices using listing, host, review and spatial features. The project compares three regression models, identifies market segments through K-means clustering, and maps neighbourhood prediction error. Random Forest achieved a held-out MAE of USD 42.79. My contributions included team formation, report visualisations, results writing and analytical review.
+
+<p align="center">
+  <a href="https://github.com/John-JonSteyn/AirBNBSpatialPriceModelling">
+    <img
+      src="https://raw.githubusercontent.com/John-JonSteyn/AirBNBSpatialPriceModelling/main/figures/figure_03_market_segments.png"
+      width="520"
+      alt="Geographic distribution of three Airbnb market segments across New York City"
+    />
+  </a>
+</p>
+
 ### [Diabetes Risk Factor Analysis](https://github.com/John-JonSteyn/DiabetesRiskFactorAnalysis)
 
 A reproducible R-based analysis of a diabetes dataset, examining how glucose, BMI, age, pregnancies, and hereditary factors relate to diabetes outcome. The repository covers data auditing, cleaning, descriptive analysis, hypothesis testing, regression modelling, and automated generation of statistical outputs and figures.
