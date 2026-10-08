@@ -31,6 +31,20 @@ A reproducible structural MRI study examining how brain-age representation shape
   </a>
 </p>
 
+### [Parkinson's Drawing Model Comparison](https://github.com/John-JonSteyn/ParkinsonsDrawingModelComparison)
+
+A reproducible participant-level study comparing HOG-based support vector machines with ResNet18 trained from scratch and fine-tuned from ImageNet-pretrained weights on NewHandPD drawings. The analysis uses repeated nested cross-validation, duplicate-aware participant partitions, matched neural training settings, and learning curves to examine the contribution of pretraining. The classical pipeline achieves the highest observed mean balanced accuracy, while the pretraining comparison changes with model-selection procedure and training-set size.
+
+<p align="center">
+  <a href="https://github.com/John-JonSteyn/ParkinsonsDrawingModelComparison">
+    <img
+      src="https://raw.githubusercontent.com/John-JonSteyn/ParkinsonsDrawingModelComparison/main/figures/occlusion_parkinsons_correct.png"
+      width="680"
+      alt="Occlusion sensitivity analysis of a correctly classified drawing from a participant with Parkinson's disease"
+    />
+  </a>
+</p>
+
 ### [Academic Literature Planning Agent](https://github.com/John-JonSteyn/AcademicLiteraturePlanningAgent)
 
 A Python planning-agent system for auditable academic literature discovery, evidence organisation, and research synthesis. The system receives a research goal, creates a traceable plan, retrieves scholarly metadata, scores credibility, extracts claims and evidence links, detects contradictions and subtopics, and exports Markdown, JSON, SQLite, and execution-log evidence through a supervisor-led blackboard architecture.
