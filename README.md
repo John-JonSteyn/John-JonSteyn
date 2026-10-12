@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://www.essex.ac.uk/courses/pg00457/1/msc-artificial-intelligence" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/MSc-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/Artificial%20Intelligence-2a82e4?style=for-the-badge" /></a>
-  <a href="https://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa/Undergraduate-&-honours-qualifications/Find-your-qualification-&-choose-your-modules/All-qualifications/Bachelor-of-Science-in-Computing-(98906-–-COM)" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/BSc-grey?style=for-the-badge" /><img src="https://img.shields.io/badge/Computing-2a82e4?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/john-jonsteyn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-grey?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDNhMiAyIDAgMSAxIDAgNCAyIDIgMCAwIDEgMC00TTMgOWg0djEySDN6TTEwIDloNHYyYzEtMyA3LTMgNyAzdjdoLTR2LTZjMC0zLTMtMy0zIDB2NmgtNHoiLz48L3N2Zz4%3D" alt="" /><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/mrjohnjonsteyn/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-grey?style=for-the-badge&logo=instagram&logoColor=white" alt="" /><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" alt="Instagram" /></a>
+  <a href="https://www.threads.com/@mrjohnjonsteyn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-grey?style=for-the-badge&logo=threads&logoColor=white" alt="" /><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge" alt="Threads" /></a>
+  <a href="https://x.com/JohnJon_Steyn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-grey?style=for-the-badge&logo=x&logoColor=white" alt="" /><img src="https://img.shields.io/badge/X%20%28Twitter%29-000000?style=for-the-badge" alt="X (Twitter)" /></a>
+  <a href="https://www.youtube.com/@John-JonSteyn" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%20-grey?style=for-the-badge&logo=youtube&logoColor=white" alt="" /><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" alt="YouTube" /></a>  
 </p>
 
 ---
@@ -11,7 +12,9 @@
 
 I’m a software engineer with a Bachelor of Science in Computing and currently pursuing a Master of Science in Artificial Intelligence.
 
-I’m interested in how computation can be used to better understand the brain, cognition, and behaviour, and in how these concepts can be applied in practical clinical settings through modelling, AI, and data-driven approaches.
+My interests span the foundations of computing, cognitive science, neuroscience and artificial intelligence. I’m interested in how computation works, how brains process information and learn, and how insights from these fields build on one another to explain and develop intelligent systems.
+
+I explore these subjects through software projects, independent research and explainer videos. My focus is on understanding the underlying principles and showing how they connect to the algorithms, models and systems built from them.
 
 ---
 
